@@ -29,7 +29,10 @@ chip.
 
 ## Architecture
 
-![DSP48A1 architecture diagram](DSP_Arch.png)
+<p align="center">
+  <img src="DSP_Arch.png" alt="DSP48A1 chip" width="45%">
+  <img src="diagram.png" alt="DSP48A1 block diagram" width="45%">
+</p>
 
 `REG_BLK` is the core building block of the design: it pairs a generic
 `REG` with a `ParamMux` so that any pipeline stage can be compile-time
