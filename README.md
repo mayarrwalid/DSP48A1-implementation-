@@ -30,8 +30,8 @@ chip.
 ## Architecture
 
 <p align="center">
-  <img src="DSP_Arch.png" alt="DSP48A1 chip" width="30%">
-  <img src="diagram.png" alt="DSP48A1 block diagram" width="60%">
+  <img src="DSP_Arch.png" alt="DSP48A1 chip" width="25%">
+  <img src="diagram.png" alt="DSP48A1 block diagram" width="55%">
 </p>
 
 `REG_BLK` is the core building block of the design: it pairs a generic
